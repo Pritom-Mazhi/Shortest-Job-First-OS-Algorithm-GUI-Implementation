@@ -1,1 +1,1 @@
-# Shortest-Job-First-OS-Algorithm-GUI-Implementation
+"Shortest-Job-First" Operating System Algorithm Implementation with GUI coded in JAVA
